@@ -24,7 +24,7 @@ const menu = [
   'Adress book',
   'Notifcations',
   'Langauge',
-  'Receive updates',
+  'Receive email updates',
   'Privacy setings',
   'Log out',
 ];
