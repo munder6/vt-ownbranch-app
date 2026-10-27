@@ -36,7 +36,7 @@ class CartApp extends StatelessWidget {
                 child: const Text('Plcae order'),
               ),
               const SizedBox(height: 24),
-              const Text('Free shiping over \$50', key: Key('shipping-note')),
+              const Text('Free shipping over \$50', key: Key('shipping-note')),
               const SizedBox(height: 8),
               const Text('Delivery in 2-3 dyas', key: Key('delivery-note')),
             ],
