@@ -26,7 +26,7 @@ const menu = [
   'Langauge',
   'Recieve updates',
   'Privacy setings',
-  'Log ot',
+  'Log out',
 ];
 
 class CartApp extends StatelessWidget {
