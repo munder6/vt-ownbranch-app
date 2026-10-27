@@ -20,7 +20,7 @@ const menu = [
   'Track packege',
   'Return policy',
   'Contact suport',
-  'Payment metods',
+  'Payment methods',
   'Address book',
   'Notifications',
   'Language',
