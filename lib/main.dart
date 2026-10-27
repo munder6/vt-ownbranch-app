@@ -21,7 +21,7 @@ const menu = [
   'Retrun policy',
   'Contact suport',
   'Payment metods',
-  'Adress book',
+  'Address book',
   'Notifcations',
   'Langauge',
   'Receive email updates',
