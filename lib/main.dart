@@ -4,7 +4,11 @@ void main() {
   runApp(const CartApp());
 }
 
-const items = ['Coffee beans', 'Paper filters', 'Milk frother'];
+const items = [
+  'Cofee beans',
+  'Paper fliters',
+  'Milk forther',
+];
 
 class CartApp extends StatelessWidget {
   const CartApp({super.key});
@@ -14,7 +18,7 @@ class CartApp extends StatelessWidget {
     return MaterialApp(
       title: 'Scratch Cart',
       home: Scaffold(
-        appBar: AppBar(title: const Text('Your cart')),
+        appBar: AppBar(title: const Text('Your crat')),
         body: Padding(
           padding: const EdgeInsets.all(24),
           child: Column(
@@ -23,6 +27,14 @@ class CartApp extends StatelessWidget {
               for (final item in items) Text(item, style: const TextStyle(fontSize: 18)),
               const SizedBox(height: 16),
               Text('Total: ${items.length} items', key: const Key('cart-total'), style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 16),
+              ElevatedButton(
+                key: const Key('place-order'),
+                onPressed: () {},
+                child: const Text('Plcae order'),
+              ),
+              const SizedBox(height: 24),
+              const Text('Free shiping over \$50', key: Key('shipping-note')),
             ],
           ),
         ),
