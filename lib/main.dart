@@ -18,7 +18,7 @@ class CartApp extends StatelessWidget {
     return MaterialApp(
       title: 'Scratch Cart',
       home: Scaffold(
-        appBar: AppBar(title: const Text('Your crat')),
+        appBar: AppBar(title: const Text('Your cart')),
         body: Padding(
           padding: const EdgeInsets.all(24),
           child: Column(
