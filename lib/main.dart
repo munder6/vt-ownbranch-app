@@ -22,7 +22,7 @@ class CartApp extends StatelessWidget {
             children: [
               for (final item in items) Text(item, style: const TextStyle(fontSize: 18)),
               const SizedBox(height: 16),
-              Text('Totl: ${items.length} items', key: const Key('cart-total'), style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+              Text('Total: ${items.length} items', key: const Key('cart-total'), style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
             ],
           ),
         ),
