@@ -16,7 +16,7 @@ const menu = [
   'Your oders',
   'Save for later',
   'Gift wraping',
-  'Aply coupon',
+  'Apply coupon',
   'Track packege',
   'Return policy',
   'Contact suport',
