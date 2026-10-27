@@ -14,7 +14,7 @@ const items = [
 const menu = [
   'Welcome back',
   'Your oders',
-  'Save for latter',
+  'Save for later',
   'Gift wraping',
   'Aply coupon',
   'Track packege',
