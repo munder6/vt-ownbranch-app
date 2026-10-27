@@ -1,0 +1,8 @@
+name: slow-check
+on:
+  pull_request:
+jobs:
+  slow-check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 900
