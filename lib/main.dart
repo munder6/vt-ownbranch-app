@@ -30,7 +30,7 @@ const menu = [
   'Saved wishes',
   'Order history',
   'Help center',
-  'Rate the ap',
+  'Rate the app',
   'Gift cads',
 ];
 
