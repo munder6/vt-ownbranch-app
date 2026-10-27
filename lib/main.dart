@@ -18,7 +18,7 @@ const menu = [
   'Gift wraping',
   'Aply coupon',
   'Track packege',
-  'Retrun policy',
+  'Return policy',
   'Contact suport',
   'Payment metods',
   'Address book',
