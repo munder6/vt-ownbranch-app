@@ -7,7 +7,7 @@ void main() {
 const items = [
   'Cofee beans',
   'Paper fliters',
-  'Milk forther',
+  'Milk frother',
 ];
 
 class CartApp extends StatelessWidget {
