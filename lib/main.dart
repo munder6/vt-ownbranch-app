@@ -33,7 +33,7 @@ class CartApp extends StatelessWidget {
               ElevatedButton(
                 key: const Key('place-order'),
                 onPressed: () {},
-                child: const Text('Plcae order'),
+                child: const Text('Place order'),
               ),
               const SizedBox(height: 24),
               const Text('Free shipping over \$50', key: Key('shipping-note')),
