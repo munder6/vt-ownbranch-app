@@ -25,7 +25,7 @@ const menu = [
   'Notifications',
   'Language',
   'Receive email updates',
-  'Privacy setings',
+  'Privacy settings',
   'Log out',
 ];
 
