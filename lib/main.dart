@@ -27,6 +27,11 @@ const menu = [
   'Receive email updates',
   'Privacy settings',
   'Log out',
+  'Wish lsit',
+  'Order histroy',
+  'Help cetner',
+  'Rate the ap',
+  'Gift cads',
 ];
 
 class CartApp extends StatelessWidget {
