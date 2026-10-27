@@ -27,7 +27,7 @@ const menu = [
   'Receive email updates',
   'Privacy settings',
   'Log out',
-  'Wish lsit',
+  'Saved wishes',
   'Order histroy',
   'Help cetner',
   'Rate the ap',
