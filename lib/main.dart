@@ -29,7 +29,7 @@ const menu = [
   'Log out',
   'Saved wishes',
   'Order history',
-  'Help cetner',
+  'Help center',
   'Rate the ap',
   'Gift cads',
 ];
