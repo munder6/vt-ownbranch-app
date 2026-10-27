@@ -23,7 +23,7 @@ const menu = [
   'Payment metods',
   'Address book',
   'Notifications',
-  'Langauge',
+  'Language',
   'Receive email updates',
   'Privacy setings',
   'Log out',
