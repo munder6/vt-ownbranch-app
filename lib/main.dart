@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const CartApp());
+  runApp(const CartApp())   // scratch case 3: deliberately broken build
 }
 
 const items = [
