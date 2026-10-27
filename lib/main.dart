@@ -12,7 +12,7 @@ const items = [
 
 // The account menu, one entry per line.
 const menu = [
-  'Wellcome back',
+  'Welcome back',
   'Your oders',
   'Save for latter',
   'Gift wraping',
