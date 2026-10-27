@@ -19,7 +19,7 @@ const menu = [
   'Aply coupon',
   'Track packege',
   'Return policy',
-  'Contact suport',
+  'Contact support',
   'Payment metods',
   'Address book',
   'Notifications',
