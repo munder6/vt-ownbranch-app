@@ -5,7 +5,7 @@ void main() {
 }
 
 const items = [
-  'Cofee beans',
+  'Coffee beans',
   'Paper filters',
   'Milk frother',
 ];
