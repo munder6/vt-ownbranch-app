@@ -24,6 +24,8 @@ class CartApp extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              const Text('Itmes in your cart', key: Key('cart-heading'), style: TextStyle(fontSize: 14)),
+              const SizedBox(height: 8),
               for (final item in items) Text(item, style: const TextStyle(fontSize: 18)),
               const SizedBox(height: 16),
               Text('Total: ${items.length} items', key: const Key('cart-total'), style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
@@ -35,6 +37,8 @@ class CartApp extends StatelessWidget {
               ),
               const SizedBox(height: 24),
               const Text('Free shiping over \$50', key: Key('shipping-note')),
+              const SizedBox(height: 8),
+              const Text('Delivery in 2-3 dyas', key: Key('delivery-note')),
             ],
           ),
         ),
