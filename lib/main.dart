@@ -40,7 +40,7 @@ class CartApp extends StatelessWidget {
               const SizedBox(height: 8),
               const Text('Delivery in 2-3 dyas', key: Key('delivery-note')),
               const SizedBox(height: 8),
-              const Text('Secure chekout', key: Key('secure-note')),
+              const Text('Secure checkout', key: Key('secure-note')),
             ],
           ),
         ),
