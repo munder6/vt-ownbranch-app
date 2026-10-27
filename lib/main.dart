@@ -28,7 +28,7 @@ const menu = [
   'Privacy settings',
   'Log out',
   'Saved wishes',
-  'Order histroy',
+  'Order history',
   'Help cetner',
   'Rate the ap',
   'Gift cads',
